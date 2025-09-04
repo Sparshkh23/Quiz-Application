@@ -1,0 +1,274 @@
+[
+  {
+    "text": "What does JSX stand for in React?",
+    "options": ["JavaScript XML", "Java Syntax Extension", "JSON XML", "JavaScript Extension"],
+    "answer": "JavaScript XML",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which hook is used to manage state in a functional component?",
+    "options": ["useContext", "useEffect", "useState", "useReducer"],
+    "answer": "useState",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the default port for a React app started with create-react-app?",
+    "options": ["3000", "8000", "5000", "8080"],
+    "answer": "3000",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What does SPA stand for in web development?",
+    "options": ["Single Page Application", "Simple Page API", "Server Page Application", "Standard Page Access"],
+    "answer": "Single Page Application",
+    "difficulty": "easy"
+  },
+  {
+    "text": "In React, what is 'props' short for?",
+    "options": ["Properties", "Prototypes", "Procedures", "Processes"],
+    "answer": "Properties",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which HTTP method is used to fetch data from an API?",
+    "options": ["POST", "GET", "PUT", "DELETE"],
+    "answer": "GET",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What does npm stand for?",
+    "options": ["Node Package Manager", "New Project Module", "Next Package Manager", "Node Programming Method"],
+    "answer": "Node Package Manager",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which database is commonly used with the MERN stack?",
+    "options": ["MySQL", "MongoDB", "PostgreSQL", "Oracle"],
+    "answer": "MongoDB",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What does CRUD stand for in web development?",
+    "options": ["Create, Read, Update, Delete", "Copy, Run, Update, Deploy", "Connect, Reset, Upload, Download", "Cache, Read, Undo, Deploy"],
+    "answer": "Create, Read, Update, Delete",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is Tailwind CSS primarily used for?",
+    "options": ["Managing API requests", "Building utility-first CSS styles", "State management", "Database queries"],
+    "answer": "Building utility-first CSS styles",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which hook is used to perform side effects in React?",
+    "options": ["useState", "useEffect", "useRef", "useMemo"],
+    "answer": "useEffect",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which hook is used to access values from Context in React?",
+    "options": ["useContext", "useEffect", "useReducer", "useState"],
+    "answer": "useContext",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which keyword is used to create a class component in React?",
+    "options": ["function", "class", "component", "extends"],
+    "answer": "class",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Which of the following is a build tool commonly used with React?",
+    "options": ["Webpack", "MongoDB", "Express", "MySQL"],
+    "answer": "Webpack",
+    "difficulty": "easy"
+  },
+  {
+    "text": "What is the virtual DOM in React?",
+    "options": ["A real copy of the DOM", "A lightweight in-memory representation of the DOM", "A JSON object of the UI", "A database for storing HTML"],
+    "answer": "A lightweight in-memory representation of the DOM",
+    "difficulty": "easy"
+  },
+
+  {
+    "text": "Which command is used to create a new React project with Vite?",
+    "options": ["npm create vite@latest", "npx react-app", "npm install vite", "npx create-react"],
+    "answer": "npm create vite@latest",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which lifecycle method is called after a component is mounted in React (class component)?",
+    "options": ["componentDidMount", "componentWillUnmount", "componentDidUpdate", "render"],
+    "answer": "componentDidMount",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the purpose of React Router?",
+    "options": ["To style React components", "To manage state globally", "To handle navigation between views", "To fetch data from APIs"],
+    "answer": "To handle navigation between views",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which hook allows you to perform cleanup logic in React?",
+    "options": ["useEffect with return cleanup", "useCleanup", "useMemo", "useReducer"],
+    "answer": "useEffect with return cleanup",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What does the 'key' prop help React identify?",
+    "options": ["Event handlers", "Unique elements in a list", "Props values", "Component state"],
+    "answer": "Unique elements in a list",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which CSS approach is utility-first?",
+    "options": ["Bootstrap", "Tailwind CSS", "Bulma", "Materialize"],
+    "answer": "Tailwind CSS",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which database query language does MongoDB use?",
+    "options": ["SQL", "NoSQL", "JSON-like queries", "GraphQL"],
+    "answer": "JSON-like queries",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which React hook is used for performance optimization to prevent unnecessary re-renders?",
+    "options": ["useEffect", "useMemo", "useCallback", "useReducer"],
+    "answer": "useCallback",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is the purpose of Node.js in MERN stack?",
+    "options": ["Frontend rendering", "Database management", "Backend server-side runtime", "Styling components"],
+    "answer": "Backend server-side runtime",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which command starts a React development server in Vite?",
+    "options": ["npm run start", "npm run dev", "npm start", "npm serve"],
+    "answer": "npm run dev",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which HTTP status code means 'Not Found'?",
+    "options": ["200", "400", "404", "500"],
+    "answer": "404",
+    "difficulty": "medium"
+  },
+  {
+    "text": "What is Express.js used for in MERN?",
+    "options": ["Building REST APIs", "Handling CSS", "Managing Databases", "Running Tests"],
+    "answer": "Building REST APIs",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which React hook can store mutable values across renders?",
+    "options": ["useRef", "useState", "useMemo", "useEffect"],
+    "answer": "useRef",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which protocol does REST APIs commonly use?",
+    "options": ["HTTP", "FTP", "SMTP", "SSH"],
+    "answer": "HTTP",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Which statement about props in React is correct?",
+    "options": ["Props can be changed inside the child", "Props are immutable", "Props are same as state", "Props must always be numbers"],
+    "answer": "Props are immutable",
+    "difficulty": "medium"
+  },
+
+  {
+    "text": "Which React hook is useful for performance optimization by memoizing values?",
+    "options": ["useEffect", "useMemo", "useRef", "useCallback"],
+    "answer": "useMemo",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Explain the difference between useMemo and useCallback in React.",
+    "options": ["useMemo memoizes functions, useCallback memoizes values", "useMemo memoizes values, useCallback memoizes functions", "Both memoize components", "They are the same"],
+    "answer": "useMemo memoizes values, useCallback memoizes functions",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the purpose of React.StrictMode?",
+    "options": ["Optimize build size", "Highlight potential problems in an application", "Add strict typing", "Enable routing"],
+    "answer": "Highlight potential problems in an application",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is code-splitting in React?",
+    "options": ["Splitting components into multiple files", "Loading only the necessary code chunks on demand", "Separating CSS and JS", "Splitting JSX and JS"],
+    "answer": "Loading only the necessary code chunks on demand",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What does the React.lazy function do?",
+    "options": ["Creates lazy state", "Loads a component dynamically for code-splitting", "Suspends API calls", "Memoizes props"],
+    "answer": "Loads a component dynamically for code-splitting",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What does useImperativeHandle hook do?",
+    "options": ["Allows custom instance values to be exposed when using ref", "Handles imperative DOM updates", "Optimizes rendering", "Memoizes context"],
+    "answer": "Allows custom instance values to be exposed when using ref",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is React Fiber?",
+    "options": ["A new CSS module system", "The new reconciliation engine in React", "A testing library", "React’s old rendering engine"],
+    "answer": "The new reconciliation engine in React",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What does hydration mean in React?",
+    "options": ["Rebuilding the DOM completely", "Attaching event listeners to existing server-rendered HTML", "Clearing cache memory", "Rendering virtual DOM from scratch"],
+    "answer": "Attaching event listeners to existing server-rendered HTML",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which feature is unique to Next.js compared to plain React?",
+    "options": ["JSX", "Static Site Generation (SSG)", "Props", "Hooks"],
+    "answer": "Static Site Generation (SSG)",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What does the Context API replace in some cases?",
+    "options": ["useEffect", "Redux or prop drilling", "Webpack", "Refs"],
+    "answer": "Redux or prop drilling",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What does React.Suspense let you do?",
+    "options": ["Pause rendering until data or code is ready", "Suspend the entire app", "Stop hooks execution", "Force a rerender"],
+    "answer": "Pause rendering until data or code is ready",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is the role of a service worker in a PWA?",
+    "options": ["Handles routing", "Caches assets and enables offline use", "Optimizes CSS", "Runs React hooks"],
+    "answer": "Caches assets and enables offline use",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Which hook is commonly used for state machines or reducers?",
+    "options": ["useState", "useReducer", "useContext", "useRef"],
+    "answer": "useReducer",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What is tree-shaking in modern bundlers?",
+    "options": ["Removing unused code during build", "Shaking dependencies for updates", "Debugging memory leaks", "Cleaning node_modules"],
+    "answer": "Removing unused code during build",
+    "difficulty": "hard"
+  },
+  {
+    "text": "What does getServerSideProps in Next.js do?",
+    "options": ["Runs only on client", "Fetches data on server for every request", "Generates static props at build time", "Provides CSS modules"],
+    "answer": "Fetches data on server for every request",
+    "difficulty": "hard"
+  }
+]
