@@ -40,7 +40,7 @@ quiz-app/
 
 ## Clone the repository:
 
-git clone https://github.com/your-username/quiz-app.git
+git clone https://github.com/Sparshkh23/Quiz-Application.git
 cd quiz-app
 
 
@@ -56,7 +56,7 @@ npm start
 
 ## open your browser and visit:
 
-http://localhost:3000
+http://localhost:5173/
 
 ## 🎯 Future Enhancements
 
